@@ -5,8 +5,7 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/android-support-annotations"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/android-support-compat"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/android-support-core-ui"/>
 	<classpathentry exported="true" kind="lib" path="classes/android-support-v7-recyclerview.jar" sourcepath="classes/android-support-v7-recyclerview-sources.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/android-support-v4"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
